@@ -42,7 +42,7 @@ export default function Hero() {
                     />
                     <img
                         className="w-[25%] object-cover"
-                        src="Images/01Vlog.webp"
+                        src="Images/03Live.webp"
                         alt=""
                     />
                 </div>
