@@ -27,22 +27,22 @@ export default function Hero() {
                 <div className="backdropimgs z-0 flex w-full h-full  opacity-30 mix-blend-soft-light">
                     <img
                         className="w-[25%] object-cover"
-                        src="Images/01Gaming.jpg"
+                        src="Images/01Gaming.webp"
                         alt=""
                     />
                     <img
                         className="w-[25%] object-cover"
-                        src="Images/01Montage.jpg"
+                        src="Images/01Montage.webp"
                         alt=""
                     />
                     <img
                         className="w-[25%] object-cover bg-center "
-                        src="Images/03Gaming.jpg"
+                        src="Images/03Gaming.webp"
                         alt=""
                     />
                     <img
                         className="w-[25%] object-cover"
-                        src="Images/01Vlog.png"
+                        src="Images/01Vlog.webp"
                         alt=""
                     />
                 </div>

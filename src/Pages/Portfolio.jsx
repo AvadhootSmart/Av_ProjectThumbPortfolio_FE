@@ -12,21 +12,21 @@ export default function Portfolio() {
                         <li className="thumbs drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition "
-                                src="Images/01Gaming.jpg"
+                                src="Images/01Gaming.webp"
                                 alt=""
                             />
                         </li>
                         <li className="thumbs drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/02Gaming.jpg"
+                                src="Images/02Gaming.webp"
                                 alt=""
                             />
                         </li>
                         <li className="thumbs drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/03Gaming.jpg"
+                                src="Images/03Gaming.webp"
                                 alt=""
                             />
                         </li>
@@ -40,21 +40,21 @@ export default function Portfolio() {
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl  hover:scale-110 transition"
-                                src="Images/01Live.jpg"
+                                src="Images/01Live.webp"
                                 alt=""
                             />
                         </li>
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/02Live.jpg"
+                                src="Images/02Live."
                                 alt=""
                             />
                         </li>
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/03Live.jpg"
+                                src="Images/03Live.webp"
                                 alt=""
                             />
                         </li>
@@ -68,21 +68,21 @@ export default function Portfolio() {
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl  hover:scale-110 transition"
-                                src="Images/01Montage.jpg"
+                                src="Images/01Montage.webp"
                                 alt=""
                             />
                         </li>
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/02Montage.jpg"
+                                src="Images/02Montage.webp"
                                 alt=""
                             />
                         </li>
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/03Montage.jpg"
+                                src="Images/03Montage.webp"
                                 alt=""
                             />
                         </li>
