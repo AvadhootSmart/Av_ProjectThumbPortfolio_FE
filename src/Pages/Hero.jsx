@@ -17,7 +17,7 @@ export default function Hero() {
         );
         gsap.from(".backdropimgs", {
             opacity: 0,
-            duration: 0.7,
+            duration: 1,
             ease: "power1.in",
         });
     });
