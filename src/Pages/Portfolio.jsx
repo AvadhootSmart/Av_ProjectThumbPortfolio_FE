@@ -47,7 +47,7 @@ export default function Portfolio() {
                         <li className="drop-shadow-2xl">
                             <img
                                 className="rounded-lg shadow-2xl hover:scale-110 transition"
-                                src="Images/02Live."
+                                src="Images/02Live.webp"
                                 alt=""
                             />
                         </li>
